@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7QUr8l3Jm6UlLtL+E93PtlT9/3Mz1o6E0cfj6Dcz7KarRUOpOJXjXSDgyZR8DEeXLsFwPFhxr5Kz5ug9vwfh2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jonathan.hora\\Documents\\GitHub\\Projetos\\LerLinhas.Demillus\\LerLinhas\\LerLinhas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonathan.hora\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
